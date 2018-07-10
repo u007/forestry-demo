@@ -12,9 +12,12 @@ show_staff: true
 menu:
   navigation:
     identifier: _about
-    weight: 2
+    url: "/about/"
+    weight: 1
+    parent: _index
   footer:
     identifier: _about
+    url: "/about/"
     weight: 3
 ---
 
